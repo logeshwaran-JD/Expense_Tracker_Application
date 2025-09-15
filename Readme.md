@@ -83,16 +83,6 @@ ExpenseTracker/
 - **Maven** - Build tool
 - **CSS** - Styling
 
-## Sample Video
-
-[Demo video link here]
-
-## Contact
-
-**Developer**: Isa Shaikh  
-**Email**: isashaikh2005@gmail.com  
-**GitHub**: [ExpenseTrackerFX](https://github.com/IsaShaikh/Expense-tracker-fx)
-
 ## Need Help?
 
 - Make sure PostgreSQL is running
